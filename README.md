@@ -1,5 +1,5 @@
 # app-cronometro
-Aplicación de Cronómetro realizada en Java.
+Aplicación de escritorio de Cronómetro realizada en Java.
 
 ![alt_text](https://github.com/marcosmap1998/app-cronometro/blob/master/img/cronometro.png)
 
